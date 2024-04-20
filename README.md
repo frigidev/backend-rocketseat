@@ -2,7 +2,7 @@
 
 In this application was developed a backend system in Java, with an API which registers users and tasks, with some validations and functionalities.
 
-Developed in the Tocketseat's Java Course, during the free classes offered during the launch week of the Java trail.
+Developed in the Rocketseat's Java Course, during the free classes offered during the launch week of the Java trail.
 
 In my application I used MySQL, but it could've been implemented with other databases, inclusive with the H2 memory bank used in the classes.
 
